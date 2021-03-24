@@ -1,0 +1,11 @@
+main: io.github.deerjump.gamesplus.GamesPlus
+name: GamesPlus
+version: 1.0
+author: Deerjump
+api-version: 1.16
+
+commands:
+  games:
+    description: "Want to play a game?"
+  cards:
+    description: "See the cards!"

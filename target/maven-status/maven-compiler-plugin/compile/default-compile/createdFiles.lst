@@ -1,0 +1,14 @@
+io\github\deerjump\gamesplus\games\cards\Card.class
+io\github\deerjump\gamesplus\GamesPlus.class
+io\github\deerjump\gamesplus\games\blackjack\Blackjack.class
+io\github\deerjump\gamesplus\menu\BlackjackMenu$1.class
+io\github\deerjump\gamesplus\textures\Textures.class
+io\github\deerjump\gamesplus\games\Winner.class
+io\github\deerjump\gamesplus\commands\GamesCommand.class
+io\github\deerjump\gamesplus\games\cards\BannerLetters.class
+io\github\deerjump\gamesplus\games\cards\Deck.class
+io\github\deerjump\gamesplus\menu\GamesMenu.class
+io\github\deerjump\gamesplus\commands\CardsCommand.class
+io\github\deerjump\gamesplus\menu\BlackjackMenu.class
+io\github\deerjump\gamesplus\menu\CardsMenu.class
+io\github\deerjump\gamesplus\games\cards\Suit.class
